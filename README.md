@@ -108,3 +108,146 @@ Works well with mixed features
 Produces stable results
 
 It combines multiple decision trees to improve prediction quality.
+
+
+1. What is overfitting?
+
+Answer:
+Overfitting happens when a model memorizes training data instead of learning patterns. As a result, it performs well on training data but poorly on unseen data.
+
+Random Forest helps reduce overfitting.
+
+12. What is underfitting?
+
+Answer:
+Underfitting occurs when a model is too simple and cannot learn patterns from data properly.
+
+13. Explain train-test split
+
+Answer:
+The dataset was divided into:
+
+Training data → used for learning
+Testing data → used for evaluation
+
+Usually, I used an 80:20 ratio.
+
+14. What is accuracy?
+
+Answer:
+Accuracy measures how many predictions are correct.
+
+Formula:
+
+Accuracy=
+Total Predictions
+Correct Predictions
+	​
+
+
+My model achieved approximately 68.7% accuracy.
+
+15. What is F1-score?
+
+Answer:
+F1-score combines precision and recall into one metric and is useful for classification problems.
+
+My project achieved approximately 70% F1-score.
+
+16. Why accuracy alone is not enough?
+
+Answer:
+Accuracy can be misleading in imbalanced datasets. F1-score provides a better measure because it considers both false positives and false negatives.
+
+17. What is a confusion matrix?
+
+Answer:
+A confusion matrix shows:
+
+Correct predictions
+Incorrect predictions
+
+It helps understand model performance in classification.
+
+18. Why did you use Streamlit?
+
+Answer:
+Streamlit was used to build an interactive UI where users can input data and get predictions in real time.
+
+19. Explain Streamlit workflow
+
+Answer:
+
+User enters input
+Input is sent to model
+Model predicts addiction level
+Result is displayed
+20. Why FastAPI?
+
+Answer:
+FastAPI was used to expose the ML model as an API and test predictions using /docs.
+
+21. What is API?
+
+Answer:
+API (Application Programming Interface) allows communication between systems.
+
+In my project, FastAPI connected the frontend and ML model.
+
+22. What is /docs in FastAPI?
+
+Answer:
+/docs provides interactive API documentation where requests can be tested directly.
+
+23. What is model deployment?
+
+Answer:
+Deployment means making the trained model available for real-world usage through applications or APIs.
+
+24. Explain project architecture
+
+Answer:
+The project followed a modular structure:
+
+Notebook → EDA & experiments
+src/ → preprocessing & pipelines
+model/ → trained model
+app.py → application logic
+YAML → configuration
+25. What is YAML?
+
+Answer:
+YAML is a configuration file format used to store settings and parameters separately from code.
+
+26. What is a pipeline?
+
+Answer:
+A pipeline automates multiple ML steps like preprocessing and prediction in sequence.
+
+27. What challenges did you face?
+
+Answer:
+
+Data preprocessing issues
+Feature selection
+Improving model performance
+API integration
+28. What improvements can be made?
+
+Answer:
+
+Larger dataset
+Deep learning models
+Cloud deployment
+Better feature engineering
+29. What was your role?
+
+Answer:
+I worked on preprocessing, EDA, model training, evaluation, Streamlit UI, FastAPI integration, and testing.
+
+30. Why should we hire you?
+
+Answer:
+I have hands-on experience in Data Science projects, strong Python skills, and practical exposure to ML deployment using FastAPI and Streamlit. I am also eager to learn and adapt quickly.
+
+These are the kinds of questions that often decide the viva.
