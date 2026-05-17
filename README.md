@@ -1,6 +1,6 @@
 # Internship_viva_Questions
 
-1. Introduce yourself
+## 1. Introduce yourself
 
 Answer:
 My name is Manish Kumawat, and I am pursuing a B.Sc. degree. I have a strong interest in Data Science and Machine Learning. During my internship at Airsme Technology Private Limited, I worked on a Smartphone Addiction Detection System using Machine Learning, where I gained hands-on experience in data preprocessing, EDA, model building, API development, and deployment using FastAPI and Streamlit.
