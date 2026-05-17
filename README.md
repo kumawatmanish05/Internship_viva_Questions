@@ -5,7 +5,7 @@
 Answer:
 My name is Manish Kumawat, and I am pursuing a B.Sc. degree. I have a strong interest in Data Science and Machine Learning. During my internship at Airsme Technology Private Limited, I worked on a Smartphone Addiction Detection System using Machine Learning, where I gained hands-on experience in data preprocessing, EDA, model building, API development, and deployment using FastAPI and Streamlit.
 
-2. Explain your internship in detail
+## 2. Explain your internship in detail
 
 Answer:
 I completed a one-month Data Science internship where I learned practical concepts of Machine Learning and worked on a real-world project called Smartphone Addiction Detection System. The internship involved data preprocessing, visualization, feature engineering, model training, evaluation, and deployment. I also learned how to create APIs using FastAPI and build an interactive UI using Streamlit.
