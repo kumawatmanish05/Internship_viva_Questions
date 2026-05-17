@@ -7,10 +7,10 @@ My name is Manish Kumawat, and I am pursuing a B.Sc. degree. I have a strong int
 
 ## 2. Explain your internship in detail
 
-Answer:
+### Answer:
 I completed a one-month Data Science internship where I learned practical concepts of Machine Learning and worked on a real-world project called Smartphone Addiction Detection System. The internship involved data preprocessing, visualization, feature engineering, model training, evaluation, and deployment. I also learned how to create APIs using FastAPI and build an interactive UI using Streamlit.
 
-3. Explain your project in detail
+## 3. Explain your project in detail
 
 Answer:
 The Smartphone Addiction Detection System is a Machine Learning-based application that predicts addiction levels based on user behavior and smartphone usage patterns. The model classifies users into three categories:
