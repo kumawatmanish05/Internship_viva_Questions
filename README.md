@@ -67,24 +67,24 @@ Select useful features
 
 I used countplots, heatmaps, histograms, and boxplots for analysis.
 
-8. Explain the graphs you used
+## 8. Explain the graphs you used
 
-Answer:
+### Answer:
 I used:
 
-Countplot
+### Countplot
 
 To visualize the distribution of addiction levels (Mild, Moderate, Severe).
 
-Heatmap
+### Heatmap
 
 To identify relationships between features.
 
-Boxplot
+### Boxplot
 
 To compare screen time against addiction level.
 
-Histogram
+### Histogram
 
 To understand data distribution.
 
