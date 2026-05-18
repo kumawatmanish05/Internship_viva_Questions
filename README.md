@@ -34,9 +34,9 @@ Deployment using Streamlit and FastAPI
 ### Answer:
 Smartphone addiction is increasing rapidly, especially among students and young professionals. I chose this project because it solves a real-world problem and demonstrates how Machine Learning can be used to analyze human behavior patterns.
 
-5. What dataset did you use?
+## 5. What dataset did you use?
 
-Answer:
+### Answer:
 I used a smartphone usage dataset containing behavioral information such as screen time, app usage, and digital activity patterns. These features helped the model classify addiction levels.
 
 
