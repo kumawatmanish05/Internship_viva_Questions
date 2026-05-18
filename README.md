@@ -40,9 +40,9 @@ Smartphone addiction is increasing rapidly, especially among students and young 
 I used a smartphone usage dataset containing behavioral information such as screen time, app usage, and digital activity patterns. These features helped the model classify addiction levels.
 
 
-6. What preprocessing steps did you perform?
+## 6. What preprocessing steps did you perform?
 
-Answer:
+### Answer:
 The preprocessing steps included:
 
 Handling missing values
@@ -53,9 +53,9 @@ Data transformation and cleaning
 
 This improved the quality of the dataset before training.
 
-7. What is EDA? Why is it important?
+## 7. What is EDA? Why is it important?
 
-Answer:
+### Answer:
 EDA (Exploratory Data Analysis) is the process of understanding data using statistical summaries and visualizations.
 
 It helps:
